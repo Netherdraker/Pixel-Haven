@@ -178,7 +178,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c78c6658ed548ff4f8244d79730c0187, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 2
+  moveSpeed: 0
 --- !u!114 &4915661736918548669
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -192,6 +192,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startingHealth: 3
+  deathVFX: {fileID: 3816473596639716062, guid: 4a88462cf818fd54b956fd2dce7415a7, type: 3}
 --- !u!114 &8636514148482571140
 MonoBehaviour:
   m_ObjectHideFlags: 0
